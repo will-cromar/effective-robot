@@ -1,2 +1,2 @@
 # effective-robot
-Analysis of Stack Overflow survey results for STA 4102.
+Analysis of 2017 Stack Overflow Developer Survey results for STA 4102.
